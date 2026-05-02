@@ -11,8 +11,7 @@ This project demonstrates how to leverage **Transfer Learning** using a pre-trai
 
 Instead of training a deep network from scratch, we reuse knowledge learned from a large-scale dataset and adapt it to our specific task.
 
-> Think of it as teaching a model a *new language* while it already understands the *grammar of vision*.
-
+ 
 ---
 
 ## 🧩 Core Idea
