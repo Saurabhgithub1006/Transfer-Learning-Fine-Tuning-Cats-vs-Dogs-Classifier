@@ -100,6 +100,7 @@ After training:
 ---
 
 ## 🧾 Final Evaluation
+On unseen test data:
 Test Accuracy: 98.58%
 Test Loss: 0.0360
 
@@ -125,5 +126,5 @@ Training shows:
 - Transfer learning is ideal for small-to-medium datasets
 
 
-On unseen test data:
+
 
