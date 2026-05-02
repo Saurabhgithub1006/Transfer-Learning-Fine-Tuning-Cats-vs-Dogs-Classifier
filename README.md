@@ -1,6 +1,4 @@
-# Transfer-Learning-Fine-Tuning-Cats-vs-Dogs-Classifier
-A deep learning project using transfer learning with MobileNetV2 to classify cats and dogs, featuring feature extraction, fine-tuning, and achieving high accuracy on image classification tasks.
-
+ 
 # 🧠 Transfer Learning & Fine-Tuning: Cats vs Dogs Classifier
 
 > Harnessing the power of **pre-trained deep learning models** to classify images of cats and dogs with high accuracy and minimal training effort.
@@ -103,6 +101,30 @@ After training:
 ---
 
 ## 🧾 Final Evaluation
+Test Accuracy: 98.58%
+Test Loss: 0.0360
+
+
+🚀 The model achieves **state-of-the-art performance for a lightweight setup**
+
+---
+
+## 📈 Learning Curves
+
+Training shows:
+- Rapid accuracy improvement
+- Stable convergence
+- Strong generalization with augmentation
+
+---
+
+## 🧠 Key Insights
+
+- Pre-trained CNNs act as powerful feature extractors
+- Freezing layers prevents catastrophic forgetting
+- Fine-tuning unlocks dataset-specific specialization
+- Transfer learning is ideal for small-to-medium datasets
+
 
 On unseen test data:
 
